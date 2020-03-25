@@ -10,8 +10,3 @@ xLights is a free and open source program that enables you to design, create and
 https://xlights.org/releases/
 
 Follow the installation instructions on the download page for your system.
-
-Once xlights has been installed:
-
-Open xlights, near the top  
- 
