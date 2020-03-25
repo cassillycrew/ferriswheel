@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="leefs-MacBook">
+  <network ComPort="192.168.0.50" BaudRate="1" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="3" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="5" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="7" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="9" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="11" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="13" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="15" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="17" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="19" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="21" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="192.168.0.50" BaudRate="23" NetworkType="E131" Description="hy5" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+</Networks>
